@@ -1,0 +1,33 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    padding-block: 17px;
+    justify-content: space-between;   
+}
+.portfolio{
+    display: flex;
+    margin-right: 229px;
+}
+.itens{
+    display: flex;
+    align-items: center;
+    color: #fff;
+    font-family: var(--font-primary);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    margin-left: 229px;
+    background-color: var(--color-primary);
+    
+    border-style: none;
+    color: #fff;
+    font-family: var(--font-primary);
+    border-radius: 12px;
+    padding: 11px 30px 11px 30px;
+}
+

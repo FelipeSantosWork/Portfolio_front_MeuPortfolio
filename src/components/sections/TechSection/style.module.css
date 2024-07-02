@@ -1,0 +1,28 @@
+.section {
+    display: flex;
+    flex-direction: column;
+}
+
+.ul {
+    display: flex;
+    flex-direction: row;
+    gap: 17px;
+    margin-top: 28px;
+    margin-bottom: 28px;
+    flex-wrap: wrap;
+}
+
+.li {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+
+    width: 287px;
+    height: 86px;
+    flex-shrink: 0;
+    padding-left: 29px;
+    gap: 49px;
+    border-radius: 25px;
+    border: 1px solid rgba(255, 255, 255, 0.50);
+}

@@ -1,0 +1,34 @@
+.section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: auto;
+    height: 190px;
+    flex-shrink: 0;
+    margin-bottom: 30px;
+
+    border-top: 1px solid #FFF;
+    border-bottom: 1px solid #FFF;
+    background: #181818;
+}
+
+.div1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-evenly;
+}
+
+.socialBtn {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+
+.div2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-evenly;
+
+}

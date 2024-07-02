@@ -1,0 +1,66 @@
+.title1 {
+    width: 320px;
+    height: 116px;
+
+    font-family: var(--font-primary);
+    font-weight: 800;
+    font-size: 48px;
+    font-style: normal;
+    line-height: normal;
+
+    margin-top: 9px;
+}
+
+
+.title2 {
+    color: var(--font-color);
+    font-family: var(--font-primary);
+    font-weight: 600;
+    font-size: clamp(2.25rem, 2.071rem + 0.476vw, 2.5rem);
+    line-height: 26.394px;
+}
+
+
+.title3 {
+    color: var(--font-color);
+    font-family: var(--font-primary);
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 24.364px;
+}
+
+
+.label {
+    color: var(--color-primary);
+    font-family: var(--font-primary);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22.334px;
+}
+
+
+.link {
+    color: var(--color-link);
+    font-family: var(--font-primary);
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18.273px;
+}
+
+
+.paragraph {
+    color: var(--font-color);
+    font-family: var(--font-primary);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18.273px;
+}
+
+
+.header__font {
+    color: var(--font-color);
+    font-family: var(--font-primary);
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18.273px;
+}

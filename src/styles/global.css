@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+:root {
+    width: auto;
+    height: auto;
+    background: var(--background, linear-gradient(180deg, #0C0C0C 0%, rgba(12, 12, 12, 0.94) 100%));
+
+
+    --font-primary: "Inter", sans-serif;
+    --font-secondary: "Poppins", sans-serif;
+
+    --font-color: #FFFFFF;
+
+    --color-primary: #6880FF;
+    --color-primary-hover: #7C91FF;
+    --color-link: #7B61FF;
+
+    margin-left: 272px;
+    margin-right: 272px;
+}

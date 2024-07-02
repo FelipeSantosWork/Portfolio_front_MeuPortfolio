@@ -1,0 +1,19 @@
+.section{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    justify-content: space-between;
+}
+
+.title{
+    display: flex;
+    width: 211px;
+    height: 48px;
+}
+.paragraph{
+    display: flex;
+    width: 615px;
+    height: 150px;
+}
